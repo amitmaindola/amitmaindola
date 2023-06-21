@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Amit Maindola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23D9CF36&size=25&center=true&vCenter=true&width=600&height=80&lines=Computer+Science+Student+@+IIT+Mandi;Full+Stack+Developer;Competetive+Programmer;Machine+Learning+Enthusiast">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23D9CF36&size=25&center=true&vCenter=true&width=600&height=80&lines=Computer+Science+Student+@+IIT+Mandi;Full+Stack+Developer;Competitive+Programmer;Machine+Learning+Enthusiast">
   </a>
   <img src=https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif>
 </p>
