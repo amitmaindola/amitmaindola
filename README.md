@@ -33,7 +33,7 @@
 
 - :school: I’m currently learning `Computer Science` and `Software Engineering` at [IIT Mandi](https://www.iitmandi.ac.in/).
 - :computer: Worked as SDE intern at [Ace Online](https://ace.online/)
-- :robot: Created [RoboViz](https://github.com/amitmaindola/Roboviz-Documentation) for [Uma Robotics](https://umarobotics.com/)
+- :robot: Created [RoboViz](https://github.com/amitmaindola/Roboviz-Documentation) for [Uma Robotic Technology](https://umarobotics.com/)
 - :trophy: Reached Finale in `Hack of PI (PAN IIT Hackathon)`
 - :trophy: Achieved `top 0.25% ranking` among all `IIT-JEE 2020` participants
 - :technologist: I love using Software as a solution for every `Problem`.
